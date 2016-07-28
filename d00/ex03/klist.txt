@@ -1,0 +1,1 @@
+Credentials cache: API:17912 Principal: lsimon@42.FR Issued Expires Principal Jul 4 13:08:03 2016 Jul 4 23:08:03 2016 krbtgt/42.FR@42.FR Jul 4 13:28:34 2016 Jul 4 23:08:03 2016 host/vgs-fn1.42.fr@42.FR
